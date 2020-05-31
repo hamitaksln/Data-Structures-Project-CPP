@@ -5,6 +5,6 @@
 
  - AVL Trees
  - Linked List
- -  Sorting Algorithms ( also has tack sorting)
+ -  Sorting Algorithms ( also has stack sorting)
  -  Stack
  
